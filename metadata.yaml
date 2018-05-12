@@ -1,0 +1,43 @@
+_repo: AnekdotenVermakelijke-anekdoten-en-historische-herinneringen_37402
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lennep, J. van (Jacob)
+    aliases:
+    - Lennep, Jakob van
+    - Van Lennep, J. (Jacob)
+    - Lennep, Jacob van
+    birthdate: 1802
+    deathdate: 1868
+    gutenberg_agent_id: '8513'
+    url: http://www.gutenberg.org/2009/agents/8513
+    wikipedia: http://nl.wikipedia.org/wiki/Jacob_van_Lennep
+description: ''
+gutenberg_issued: '2011-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37402'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anecdotes'
+- !lcc 'PT'
+- !lcsh 'Essays'
+tableOfContents: Afgezanten -- Allegorie -- Babbelen en zwijgen -- Bijzaken -- Diepte
+  van gevoel -- Dieren -- Drift -- Dronkenschap -- Eenvoudigheid van zeden -- Etikette
+  -- Gebrek aan onderzoek -- Geleerdheid -- Genade en wreedheid -- Gevatheid -- Gewoonte
+  -- Gierigheid -- Geluk -- Goed en kwaad gezelschap -- Grillige loop van 's werelds
+  zaken -- Huwlijkstrouw -- Kinderliefde -- Kluchtige zetten in 't uiterste -- Krijgswetten
+  en gebruiken -- Kwakzalvers -- Lafhartigheid -- 's Lands wijs, 's Lands eer -- Logen
+  -- Menschenoffers -- Moed -- Naauwgezetheid -- Ouderliefde -- Paard -- Panische
+  schrik -- Raad inwinnen -- Redenaars -- Regeeren na den dood -- Schrijvers -- Slaap
+  -- Snapachtigheid -- Staatzuchtigen -- Tooneelspelers -- Tucht -- Vaderlandsliefde
+  -- Verachting van den dood -- Verliefdheid -- Verschil van opvatting -- Vleierij
+  -- Vriendschap -- Weelde -- Woordhouden -- Zelfbedrog -- Zelfverloochening.
+title: Vermakelijke anekdoten, en historische herinneringen
+url: http://www.gutenberg.org/ebooks/37402
